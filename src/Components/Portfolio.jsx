@@ -37,22 +37,22 @@ const projectList = [
     url: "https://github.com/tugberkcapraz/PlusDental_Scraping",
   },
   {
-    title: "Web Development for Beginners",
+    title: "German Chatbot with GPT-3",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In the beta test period of GPT-3 LLM, I built this chatbot that corrects my grammar mistakes in German while continuing the conversation :)",
+    url: "https://github.com/tugberkcapraz/GermanAppGPT",
   },
   {
-    title: "My Resume Site",
+    title: "Classifying Disaster Responses",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "It's one of my end to end projects where I built a disaster response classification web app from scratch.",
+    url: "https://github.com/tugberkcapraz/nlp-disaster-response",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Which Factors Determine Digital Privacy Concerns?",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Applied Causal Inference to the question above. Check the notebook and associated medium post",
+    url: "https://github.com/tugberkcapraz/pi_concerns",
   },
 ];
 
