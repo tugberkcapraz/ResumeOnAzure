@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Web Scraping and Topic Modeling Case Study: PlusDental on Trustpilot",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Here I scraped Trustpilot to get customer feedback about PlusDental and then made topic modelling of it.",
+    url: "https://github.com/tugberkcapraz/PlusDental_Scraping",
   },
   {
     title: "Web Development for Beginners",
